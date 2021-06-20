@@ -7,3 +7,4 @@ pip install opencv-python
 pip install mediapipe
 ```
 
+Run the file <i> FLM_Module.py </i>
