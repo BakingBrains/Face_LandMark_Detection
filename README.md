@@ -7,4 +7,9 @@ pip install opencv-python
 pip install mediapipe
 ```
 
+To see the landmark id uncomment the line number 36 in <i>FLM_Module.py</i>
+
 Run the file <i> FLM_Module.py </i>
+```
+python FLM_Module.py
+```
