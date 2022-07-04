@@ -4,7 +4,7 @@ Facial Landmark Detection using OpenCV and Mediapipe</br>
 Modules:</br>
 ```
 pip install opencv-contrib-python==4.5.5.62
-pip install mediapipe
+pip install mediapipe==0.8.3
 ```
 
 To see the landmark id uncomment the line number 36 in <i>FLM_Module.py</i>
