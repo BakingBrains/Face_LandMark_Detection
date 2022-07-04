@@ -3,7 +3,7 @@ Facial Landmark Detection using OpenCV and Mediapipe</br>
 
 Modules:</br>
 ```
-pip install opencv-python
+pip install opencv-contrib-python==4.5.5.62
 pip install mediapipe
 ```
 
